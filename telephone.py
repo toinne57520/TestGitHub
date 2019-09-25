@@ -33,4 +33,4 @@ class Numero(Resource):
 #    app.run(port='5002')
 
 
-#test pour gitHub commit etc etc 
+#test pour gitHub commit pour le serveur client B
